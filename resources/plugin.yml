@@ -1,0 +1,4 @@
+name: core
+main: com.storyfortomorrow.core.CrypticMain
+author: JohnnPM
+version: development
